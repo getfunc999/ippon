@@ -31,7 +31,7 @@ function App() {
            FIGHT FORWARD 2026
         </h1>
         <p style={{ fontSize: '1.2rem', opacity: 0.8, marginTop: '20px' }}>
-          Be smart, be paasionate 
+          Be smart, be passionate 
         </p>
         <button style={{
           marginTop: '30px',
