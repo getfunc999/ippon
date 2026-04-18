@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev
 export default defineConfig({
     plugins: [react()],
-    base: '/ippon', //my repository name
+    base: '/./', //my repository name
     })
